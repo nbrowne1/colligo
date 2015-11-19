@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "cecbasicapptest"
+  },
+  "hostingPlanName": {
+    "value": "Plan"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Standard"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "defaultaspnetapp"
+  },
+  "serverLocation": {
+    "value": "West US"
+  },
+  "administratorLogin": {
+    "value": "username"
+  },
+  "administratorLoginPassword": {
+    "value": "Password1"
+  },
+  "databaseName": {
+    "value": "cecbasicapptest_db"
+  }
+}
